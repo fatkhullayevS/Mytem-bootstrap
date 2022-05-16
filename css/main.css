@@ -1,0 +1,51 @@
+  .bg{
+      background-color: #014E56;
+  }
+
+  .hero-container{
+      display: flex;
+      justify-content: space-between;
+  }
+
+  .fonts{
+    font-family: 'Livvic', sans-serif;
+  }
+
+  .contact:hover{
+      border: black;
+  }
+
+  .hero{
+    background-color: #014E56;
+    height: 517px;
+  }
+
+  .heading{
+      margin-top: 124px;
+      font-family: 'Livvic', sans-serif;
+      font-size: 64px;
+      margin-top: 124px;
+  }
+
+  .desc{
+      max-width: 730px;
+      font-family: 'Livvic', sans-serif;
+      margin-left: 400px;
+      margin-top: 245px;
+  }
+
+  .chiziq{
+      margin-top: 200px !important;
+      margin-left: 400px !important;
+  }
+
+  .rectangle{
+    margin-top: 300px !important;
+    margin-left: 1300px !important;
+  }
+
+  /* hero start */
+
+  .bg-team{
+    background-color: #004047;
+  }
